@@ -1,0 +1,430 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "43756dca-f8f6-4179-bbe2-5af9585c666d")
+	(paper "A3")
+	(title_block
+		(title "${SHEETNAME}")
+		(date "Last Modified Date")
+		(rev "${REVISION}")
+		(company "${COMPANY}")
+	)
+	(lib_symbols)
+	(arc
+		(start 137.795 95.25)
+		(mid 136.0048 94.5002)
+		(end 135.255 92.71)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 221e5ae9-9012-49b0-a502-aa02facef6be)
+	)
+	(arc
+		(start 135.255 118.11)
+		(mid 135.9989 116.3139)
+		(end 137.795 115.57)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 421f2c64-1aa3-4cfb-996f-f5c6a2c6e33b)
+	)
+	(arc
+		(start 137.795 146.05)
+		(mid 136.0048 145.3002)
+		(end 135.255 143.51)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 92ecfa76-3b49-4f7b-8fc8-89a8db376f3a)
+	)
+	(arc
+		(start 133.985 180.34)
+		(mid 134.8801 180.7149)
+		(end 135.255 181.61)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b3a8560e-e4b4-4b46-a616-fbb0d068fd0c)
+	)
+	(arc
+		(start 133.985 130.81)
+		(mid 134.8801 131.1849)
+		(end 135.255 132.08)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b8191cba-6c47-4688-960c-a26607dc85dd)
+	)
+	(arc
+		(start 135.255 167.64)
+		(mid 135.9989 165.8439)
+		(end 137.795 165.1)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid bd9c6984-c0fd-4933-9451-7b2f3a8f4ef2)
+	)
+	(arc
+		(start 135.255 179.07)
+		(mid 134.8801 179.9651)
+		(end 133.985 180.34)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c1f05799-fa36-494b-a2d0-4b30b41f0b44)
+	)
+	(arc
+		(start 133.985 80.01)
+		(mid 134.8801 80.3849)
+		(end 135.255 81.28)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c360f8dd-9065-4112-8b89-b0fc5c6a5346)
+	)
+	(arc
+		(start 137.795 195.58)
+		(mid 136.0048 194.8302)
+		(end 135.255 193.04)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c82c4897-cb3e-4623-9002-ea2fa5ef9cd4)
+	)
+	(arc
+		(start 135.255 78.74)
+		(mid 134.8801 79.6351)
+		(end 133.985 80.01)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e5fcca06-046e-4267-aeb2-f74f72e23028)
+	)
+	(arc
+		(start 135.255 129.54)
+		(mid 134.8801 130.4351)
+		(end 133.985 130.81)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e7595209-ecb7-40a5-a162-8a64e73afbff)
+	)
+	(arc
+		(start 135.255 67.31)
+		(mid 135.9989 65.5139)
+		(end 137.795 64.77)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f6011bf8-6a72-4e1a-8da8-e62439a9110e)
+	)
+	(text_box "Interface"
+		(exclude_from_sim no)
+		(at 104.14 177.8 0)
+		(size 29.21 5.08)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 72 72 72 1)
+			)
+			(justify right top)
+		)
+		(uuid "07b981cb-1ad1-4aa4-bdad-51621740a178")
+	)
+	(text_box "[${#}] ${SHEETNAME}"
+		(exclude_from_sim no)
+		(at 12.7 20.32 0)
+		(size 394.97 12.7)
+		(margins 5.9999 5.9999 5.9999 5.9999)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 8 8)
+				(thickness 1.2)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+		)
+		(uuid "7fa5cc40-6c97-487c-9cc7-412504f68533")
+	)
+	(text_box "Functions"
+		(exclude_from_sim no)
+		(at 104.14 128.27 0)
+		(size 29.21 5.08)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 72 72 72 1)
+			)
+			(justify right top)
+		)
+		(uuid "8af2f54d-f158-4d4c-bc90-ac4fa35800ee")
+	)
+	(text_box "Power Tree"
+		(exclude_from_sim no)
+		(at 104.14 77.47 0)
+		(size 29.21 5.08)
+		(margins 1.4287 1.4287 1.4287 1.4287)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+				(color 72 72 72 1)
+			)
+			(justify right top)
+		)
+		(uuid "8d74f9cd-14fe-45e6-9ff3-6b711f32ee37")
+	)
+	(polyline
+		(pts
+			(xy 135.255 78.74) (xy 135.255 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(uuid "1e8c97f5-15c1-4b49-87ee-388302c559c1")
+	)
+	(polyline
+		(pts
+			(xy 135.255 179.07) (xy 135.255 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(uuid "359c02c6-490a-441b-b376-2ea9d8cfce76")
+	)
+	(polyline
+		(pts
+			(xy 135.255 181.61) (xy 135.255 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(uuid "45231cec-b473-4a88-aa95-b4098cc3ff08")
+	)
+	(polyline
+		(pts
+			(xy 135.255 132.08) (xy 135.255 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(uuid "682ff44e-8b73-4ce4-8abf-4baf6f4c92b9")
+	)
+	(polyline
+		(pts
+			(xy 135.255 129.54) (xy 135.255 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(uuid "b14fc0cb-8377-414a-b30c-b206ced886e8")
+	)
+	(polyline
+		(pts
+			(xy 135.255 81.28) (xy 135.255 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 72 72 72 1)
+		)
+		(uuid "d4240346-527e-425b-aaa9-c820f10308a7")
+	)
+	(sheet
+		(at 158.75 121.92)
+		(size 40.64 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d5a1283-086b-46b0-8df7-a9850521fb5e")
+		(property "Sheetname" "Function A - Size A4 - Template"
+			(at 158.75 120.8909 0)
+			(effects
+				(font
+					(size 1.905 1.905)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Function A - Size A4 - Template.kicad_sch"
+			(at 158.75 141.5546 0)
+			(show_name yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad_Template_Genernal"
+				(path "/0650c7a8-acba-429c-9f8e-eec0baf0bc1c/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220.98 119.38)
+		(size 46.99 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6015f1e-cbce-46f4-85e1-3d5463a17dc1")
+		(property "Sheetname" "Function B - Size A3 - Template"
+			(at 220.98 118.3509 0)
+			(effects
+				(font
+					(size 1.905 1.905)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Function B - Size A3 - Template.kicad_sch"
+			(at 220.98 144.0946 0)
+			(show_name yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KiCad_Template_Genernal"
+				(path "/0650c7a8-acba-429c-9f8e-eec0baf0bc1c/fede4c36-00cc-4d3d-b71c-5243ba232202"
+					(page "6")
+				)
+			)
+		)
+	)
+)
