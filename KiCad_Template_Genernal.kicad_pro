@@ -654,7 +654,7 @@
       "version": 1
     },
     "net_format_name": "KiCad",
-    "page_layout_descr_file": "kicad-embed://Template_General.kicad_wks",
+    "page_layout_descr_file": "kicad-embed://KiCad_Template_General.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,

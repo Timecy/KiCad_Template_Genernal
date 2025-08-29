@@ -1930,6 +1930,30 @@
 	(embedded_fonts no)
 	(embedded_files
 		(file
+			(name "KiCad_Template_General.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WAuHFUfAMbibSHgWD3QESom6dsY64NwhsQ3jHMa6oZfhIl36GrEGAcBEwJiAF8AYgBb2z1a
+				lr9o8QZfi3nvzBnlDfpcLafj+9FW3GzPh1edmHTQ7lzT4xteFZv+qTvu028CABAYkfaPEuOsjaXz
+				vp3fhCPLdd5WP/4PARC4DHPOjErqON9Rf4kACIwi06ZjwSsiBFfF6GVhK2aKm/7z8cVrsfxB66FS
+				SqzgBWwlUA201ij9Gz/oKM/dIylUqc8ORatLDocjZ0YA4OyZXqmPeWRNy/fpN2dXmVXqsgYu1EmD
+				+FLf9kfv0jv49WOdwR26dOkBov18gx/KepJl2yo4blasMFefxFFxYDzKPOB8x1t6SkY3ymGTTppp
+				VK4o3qSbTO1Tt+DarM4ZNGzz5FrpZYX26o7KisnpnIE7WJ3r+x9UsXzjF8UMTt/odOnSdQ4z2Akz
+				xwOBy2AYQdtOVg1LN7F4XqNStXBfy4d3UdA2CkonQWwbS8J7SCiar5tEJAmqobAdiTmxZZavc1A6
+				jKZpG9urLaajbUZwmJzTi3SfB3EsNIzOj+GoeAr8ueNz2LZlPFnY9Jt+5Vk6xca7VCqOmQWA56jh
+				oTMlQ5KUpJA2A1CECM0YVR0S4JARBEQQCmEQCiZAMAKEESYgAmaMkCBBNELB7AFslCzyvxC5ePvP
+				+/YnTNvlUF1oQdkuvMEgKpEOec7d/g0yRuQmP5BvDIVVAuMY7WCBlSjXGF+5ARmfKhFevO8b+3NV
+				HdIa5uHiCmd3g28rk2MckzHNU0vet9sHSbmEcgta7MzuOiuVv2jOFJr8iEePxY8tSyMW13Q/1YJc
+				GHZyLi09Q0b3EvoLyb5CU/uth1j0ea7fH33OArkMUSZJA2yBiCLJm/H8Wzq7y5WajEwrbiBSiVJ3
+				J007/7oAIXJlSaRPo638gv8HorzQapBBvDXSBtwCrp290lsYaX0t0erLdReiQzgOJpiN+yScPTqk
+				RlRw6lWhDYJcHoykio+BxhIFg9dN0LD4jN0hd1vwdCiWMQHS0ThRUBgu4iNlrch2CFmZ5eADV1cb
+				R5CGGnsSqNClYm9FOiMVIIbMpvmyh5pwmXnDJ2U1BYGikZeEPNkewtKJKhk4ahy0GyrWYZrp6EsS
+				/2W4ww0K72KZXI416zB0AkppAoR4lFEr7wVzpwmF0eN+A0ImqFyWNJD9PvnPeHVgSLu4UoApbWjZ
+				/qgg63DCXuY8RUEAxHOmBnwuva8S/Smd2falCZfXsT+AEd4DnqYcIkgoC8D71m7Mbhx81S8uEG7V
+				W0lQvysAKOI3tdMIORsWmhufAkaZ+uQhuuWon8JyDj6wP74HUW1DMe69Kg==|
+			)
+			(checksum "381CFE8454B7629D4B6DD17FBFDAC8EC")
+		)
+		(file
 			(name "Template_General.kicad_wks")
 			(type worksheet)
 			(data |KLUv/WAuHFUfAMbibSHgWD3QESom6dsY64NwhsQ3jHMa6oZfhIl36GrEGAcBEwJiAF8AYgBb2z1a
